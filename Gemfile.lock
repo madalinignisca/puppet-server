@@ -36,7 +36,7 @@ GEM
       archive-tar-minitar
       excon (>= 0.38.0)
       json
-    excon (0.39.5)
+    excon (0.78.0)
     extlib (0.9.16)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
