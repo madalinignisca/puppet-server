@@ -2,7 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     CFPropertyList (2.2.8)
-    addressable (2.3.6)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     archive-tar-minitar (0.5.2)
     autoparse (0.3.3)
       addressable (>= 2.3.1)
@@ -93,6 +94,7 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (2.9.1)
     nokogiri (1.5.11)
+    public_suffix (4.0.6)
     rake (10.3.2)
     rbvmomi (1.8.1)
       builder
